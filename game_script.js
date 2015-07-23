@@ -355,7 +355,7 @@
     };
 
     document.addEventListener("keypress", function (e) {
-        if (e.keyCode === 32) {
+        if (e.charCode === 32) {
             switch (gameState) {
                 case GAME_NOT_STARTED: {
                     gameState = GAME_STARTED;
