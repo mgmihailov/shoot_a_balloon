@@ -1,4 +1,4 @@
-# shoot_a_balloon
+# Shoot a Balloon
 
 A fun little game I made where you have to shoot all the balloons within the time limit in order to go to the next level. The game has 50 levels and the difficulty increases a little with each level.
 
